@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\bin\Debug\net8.0\Recipe_app2.exe
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\bin\Debug\net8.0\Recipe_app2.deps.json
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\bin\Debug\net8.0\Recipe_app2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\bin\Debug\net8.0\Recipe_app2.dll
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\bin\Debug\net8.0\Recipe_app2.pdb
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.dll
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\refint\Recipe_app2.dll
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.pdb
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\Recipe_app2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\part 2 poe\Recipe_app2\Recipe_app2\Recipe_app2\obj\Debug\net8.0\ref\Recipe_app2.dll
