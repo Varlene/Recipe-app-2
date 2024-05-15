@@ -1,8 +1,7 @@
 RecipeApp 
 
-Description 
-
-Recipe App is a simple console-based application that allows users to manage and scale their recipes. Users can enter multiple recipes, each with a name, list of ingredients, and preparation steps. The application supports displaying recipes, scaling ingredient quantities, clearing recipes, and notifying users if a recipe exceeds a certain calorie limit. 
+Description
+In the updated RecipeApp, I enhanced the code to handle multiple recipes by using collections like `List<Recipe>` to store and manage the recipes. Each recipe now includes ingredients, each with additional details such as calories and food group, as well as detailed preparation steps. The application displays all recipes in alphabetical order and allows users to scale ingredient quantities. To streamline user input and validation, I utilized methods to get quantities and numbers. Additionally, a delegate is employed to notify users if the total calories of a recipe exceed 300, improving the application's interactivity and functionality.Recipe App is a simple console-based application that allows users to manage and scale their recipes. Users can enter multiple recipes, each with a name, list of ingredients, and preparation steps. The application supports displaying recipes, scaling ingredient quantities, clearing recipes, and notifying users if a recipe exceeds a certain calorie limit.
 
 
 Features: 
