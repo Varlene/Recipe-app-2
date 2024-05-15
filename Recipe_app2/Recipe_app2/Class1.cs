@@ -9,7 +9,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to Let Him Cook");
+        Console.WriteLine("Welcome to Let Him Cok");
 
         RecipeManager recipeManager = new RecipeManager();
         bool continueProgram = true;
